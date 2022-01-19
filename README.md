@@ -7,7 +7,7 @@ My website: Building...
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🔭 I’m currently working on ReactJS apps
-- 🌱 I’m currently learning mobible development using React Native.
+- 🌱 I’m currently learning mobile development using React Native.
 - 🌱 I’m currently learning about Data Structures
 - 🌱 I’m currently learning **Open Source Contribution.**
 
