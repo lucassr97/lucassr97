@@ -50,7 +50,7 @@ My website: Building...
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lucas Rodrigues LinkedIn Profile" height="30" width="30">
   </a>
 
-  <a href="https://stackoverflow.com/users/2946413/angel-santiago-jaime-zavala?tab=profile">
+  <a href="https://stackoverflow.com">
     <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Lucas Rodrigues Stack Overflow Profile" height="30" width="30">
   </a>
   
