@@ -7,7 +7,7 @@ My website: Building...
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🔭 I’m currently working on ReactJS apps
-- 🌱 I’m currently learning backend web development using NodeJS, ExpressJS and MongoDB.
+- 🌱 I’m currently learning mobible development using React Native.
 - 🌱 I’m currently learning about Data Structures
 - 🌱 I’m currently learning **Open Source Contribution.**
 
@@ -20,7 +20,7 @@ My website: Building...
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
