@@ -28,7 +28,7 @@
 
 <a href="https://github.com/lucassr97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassr97&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassr97&theme=buefy&layout=compact" />
+  
 </a>
 
 <br/>
