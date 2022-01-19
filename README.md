@@ -1,7 +1,7 @@
 <h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Lucas <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
 
-My website: 
+My website: Building...
  
 ## 🧐 About
 
@@ -32,6 +32,14 @@ My website:
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
+ <br/>
+
+<a href="https://github.com/lucassr97">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassr97&theme=buefy&show_icons=true" />
+  
+</a>
+
+<br/>
 
 
 <h2 align="center">Contact with me :alien:</h2>
@@ -55,11 +63,4 @@ My website:
   </a>
 </p>
   
-  <br/>
-
-<a href="https://github.com/lucassr97">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassr97&theme=buefy&show_icons=true" />
-  
-</a>
-
-<br/>
+ 
